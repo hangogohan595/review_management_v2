@@ -4,8 +4,8 @@ namespace App;
 
 enum Subject
 {
-    case Math;
-    case ELEX;
-    case GEAS;
-    case ESAT;
+    case Math = "Math";
+    case ELEX = "Electronics Engineering";
+    case GEAS = "General Engineering and Applied Sciences";
+    case ESAT = "Electronic Systems and Technologies";
 }
