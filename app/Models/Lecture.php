@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Enums\Subject;
 use Illuminate\Database\Eloquent\Model;
 
 class Lecture extends Model
